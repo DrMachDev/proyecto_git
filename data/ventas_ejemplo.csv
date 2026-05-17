@@ -1,0 +1,15 @@
+fecha,producto,cantidad,precio_unitario,vendedor
+2024-01-05,Laptop,2,1200.00,Ana García
+2024-01-06,Mouse,10,25.50,Carlos López
+2024-01-07,Teclado,5,45.00,Ana García
+2024-01-08,Monitor,3,350.00,María Rodríguez
+2024-01-09,Laptop,1,1200.00,Carlos López
+2024-01-10,Auriculares,8,75.00,Ana García
+2024-01-11,Mouse,15,25.50,María Rodríguez
+2024-01-12,Teclado,4,45.00,Carlos López
+2024-01-13,Monitor,2,350.00,Ana García
+2024-01-14,Laptop,3,1200.00,María Rodríguez
+2024-01-15,INVALIDO,,abc,
+2024-01-16,Auriculares,6,75.00,Carlos López
+2024-01-17,Mouse,20,25.50,Ana García
+2024-01-18,Teclado,7,45.00,María Rodríguez
